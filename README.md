@@ -1,28 +1,32 @@
 # Functional Safety of a Lane Assistance System
 
 
+
+Your job will be to create functional safety documents based on what you learned in the lessons. These documents are simplified versions of what a functional safety manager would create as part of a safety case. A safety case is a collection of documents proving that a project has made a vehicle safer.
+
+
 ### Description of Repo Files
 
-This repo contains files to complete the car nanodegree functional safety project. Your job will be to create functional safety documents based on what you learned in the lessons. These documents are simplified versions of what a functional safety manager would create as part of a safety case. A safety case is a collection of documents proving that a project has made a vehicle safer.
-
-The repo contains a pdf file called **Project_Instructions.pdf". This document gives information about how to approach the project and what is expected. 
-
-You'll also see a project template folder. There are five files in the folder. You should use these templates to develop your solution:
+This repo contains all the files to complete the car nanodegree functional safety project. We are also providing the same files in a google drive folder. Here is the link to the google drive folder: [Link to templates](https://drive.google.com/open?id=0ByaZfGJuntGTQWRpNUpuNVVGNlU)
 
 
-01_SafetyPlan_LaneAssistance.doc
+The repo contains a pdf file called **Project_Instructions.pdf**. This document gives information about how to approach the project and what is expected. You'll also see a project template folder. There are five files in the folder. You should use these templates to develop your solution:
 
-02_HazardAnalysisAndRiskAssessment.xlsx
 
-03_FunctionalSafetyConcept_LaneAssistance.doc
+* 01_SafetyPlan_LaneAssistance.doc
 
-04_TechnicalSafetyConcept_LaneAssistance.doc
+* 02_HazardAnalysisAndRiskAssessment.xlsx
 
-05_SoftwareRequirementsAndArchitecture_LaneAssistance.doc
+* 03_FunctionalSafetyConcept_LaneAssistance.doc
+
+* 04_TechnicalSafetyConcept_LaneAssistance.doc
+
+* 05_SoftwareRequirementsAndArchitecture_LaneAssistance.doc
 
 You will need to fill out all five of these documents in order to meet specifications.  
 
 The repo also contains an Architecture_Diagrams folder containing visuals that you will need to complete the reports. These visuals are in no particular order, and you will decide in which document or documents they belong.
+
 
 ### Project Rubric
 You can find the project rubric in the classroom. 
