@@ -10,7 +10,7 @@ Your job will be to create functional safety documents based on what you learned
 This repo contains all the files to complete the car nanodegree functional safety project. We are also providing the same files in a google drive folder. Here is the link to the Google Drive folder: [Link to templates](https://drive.google.com/open?id=0ByaZfGJuntGTQWRpNUpuNVVGNlU)
 
 
-The repo contains a pdf file called **Project_Instructions.pdf**. This document gives information about how to approach the project and what is expected. You'll also see a project template folder. There are five files in the folder. You should use these templates to develop your solution:
+The repo contains a PDF file called **Project_Instructions.pdf**. This document gives information about how to approach the project and what is expected. You'll also see a project template folder. There are five files in the folder. You should use these templates to develop your solution:
 
 
 * 01_SafetyPlan_LaneAssistance.doc
