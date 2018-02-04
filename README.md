@@ -36,7 +36,7 @@ You can find the project rubric in the classroom.
 
 To complete the project, you will need a word processor and spreadsheet software.
 
-If you do not have word processing software on your local computer, we suggest using [Google Drive](https://www.office.com/) or [Microsoft Office in the Cloud](https://www.office.com/). Both of these services are free. 
+If you do not have word processing software on your local computer, we suggest using [Google Drive](https://drive.google.com) or [Microsoft Office in the Cloud](https://www.office.com/). Both of these services are free. 
 
 There are also open source word processors such as [LibreOffice](https://www.libreoffice.org/]) and [OpenOffice](https://www.openoffice.org).
 
